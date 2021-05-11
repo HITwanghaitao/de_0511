@@ -1,0 +1,7 @@
+% 箱型图测试
+% x = randn(100,25);
+% boxplot(x)
+x = randn(1000,1);
+plot(x,'k.')
+axis off
+ax.YAxis.Visible = 'off'
